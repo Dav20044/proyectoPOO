@@ -17,6 +17,7 @@ public class Prueba {
         // TODO code application logic here
         System.out.println("Hola Mundo");
         System.out.println("Esto es una prueba");
+        System.out.println("si funciona");
     }
     
 }
